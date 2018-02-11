@@ -7,7 +7,7 @@ required environment variables that must be set:
 * BADASH_API_KEY = API Key for posting to BADash
 * BADASH_API_URL = URL for posting events to BADash
 
-** Running from the command line
+## Running from the command line
 
 Example: 
 
@@ -15,7 +15,7 @@ Example:
 $ python get_weather.py 37234 US nashville-weather
 ```
 
-** Running in AWS Lambda
+## Running in AWS Lambda
 
 Set Environment variables.
 
